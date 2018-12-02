@@ -1,2 +1,2 @@
-# OMTAMIL Mobile App Training
+# Mobile App Training
 
